@@ -15,7 +15,7 @@ I'm also proposing the creation of a new keyboard function for the key ‘.’ o
 	So my proposal for that key is to be implemented as a “fraction divider key” then it will print the appropriate dot or comma every time in every field. (if its implemented)
 
 
-The base layout will be the ABNT2 , because it's very complete and has more keys . It also has the UK like enter . this is better because the american US keyboard is very bad design , with those long fatty McShifts and McEnter those fatty keys take out space for many additional keys that is needed in many languages to put accents for example , and those also displace some bar [] keys that goes to other different places in the layout and makes for a bad interoperability between other languages.
+The base layout will be the ABNT2 , because it's very complete and has more keys . It also has the UK like enter (the ISO one instead of ANSI) . this is better because the american US keyboard is very bad design , with those long fatty McShifts and McEnter those fatty keys take out space for many additional keys that is needed in many languages to put accents for example , and those also displace some bar [] keys that goes to other different places in the layout and makes for a bad interoperability between other languages.
 
 Also the letters layout used will be qwerty ,  this is a better design because it's the more comm standard , and of course this keyboard will make deprecate layouts like azerty wich are bad for even the languages it was designed as it can't even print all the letters in french.
 
